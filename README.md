@@ -11,6 +11,12 @@ jika tidak di atur maka objek akan menumpuk menjadi satu.
 Constrain Layout adalah Layout yang mirip dengan Relative layout tapi lebih mudah dan fleksibel dengan menggunakan Editor Layout Android Studio.
 
 
+Method onCreate Digunakan Untuk Start Up Sistem dan memluai sistem untuk bekerja.
+
+
+Method onPause Digunakan Untuk activity yang di panggil atau hanya berjalan jika ada yang di panggil dengan activity lain yang terbuka.
+
+
 HASIL JADI 
 ![Alt Text](https://github.com/Tio304/Materi_1_Linear/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.38.52%20(1).jpeg)
 
