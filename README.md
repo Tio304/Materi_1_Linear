@@ -9,7 +9,10 @@ Constrain Layout adalah Layout yang mirip dengan Relative layout tapi lebih muda
 
 HASIL JADI 
 ![Alt Text](https://github.com/Tio304/Materi_1_Linear/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.38.52%20(1).jpeg)
+
+
 Materi 2(Relative)
 https://github.com/Tio304/Materi_2_Relative
+
 Materi 3(Intent)
 https://github.com/Tio304/Materi_3_Intent
